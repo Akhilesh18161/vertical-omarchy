@@ -44,9 +44,10 @@
 #pulseaudio,
 #clock,
 #workspaces,
+#bluetooth,
 #tray-expander { 
   min-width: 0px;
-  margin: 7.5 0px;
+  margin: 4.5 0px;
 }
 
 #custom-expand-icon {
@@ -65,7 +66,7 @@
   padding-left: 3px;
 }
 #pulseaudio{
-  margin-left: 0px;
+  margin-left: -2px;
 }
 #battery {
   margin-bottom: 10px;
